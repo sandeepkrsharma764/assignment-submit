@@ -1,0 +1,6 @@
+import random as r
+lis=['Today will be a lucky day',
+      'You will meet someone new and interesting', 
+      'Watch out for obstacles in your path']
+a=r.choice (lis)
+print (a)
